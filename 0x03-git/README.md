@@ -1,1 +1,1 @@
-echo "Practising" > README.md
+git pull
